@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Proje_4\Proje_4\bin\Debug\Proje_4.exe.config
+C:\Users\Acer\source\repos\Proje_4\Proje_4\bin\Debug\Proje_4.exe
+C:\Users\Acer\source\repos\Proje_4\Proje_4\bin\Debug\Proje_4.pdb
+C:\Users\Acer\source\repos\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Proje_4\Proje_4\obj\Debug\Proje_4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Proje_4\Proje_4\obj\Debug\Proje_4.exe
+C:\Users\Acer\source\repos\Proje_4\Proje_4\obj\Debug\Proje_4.pdb
